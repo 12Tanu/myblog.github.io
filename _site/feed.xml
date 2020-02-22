@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My blog</title>
+    <description>My daily diary</description>
+    <link>https://myblog.github.io/</link>
+    <atom:link href="https://myblog.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 22 Feb 2020 23:25:43 +0530</pubDate>
+    <lastBuildDate>Sat, 22 Feb 2020 23:25:43 +0530</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 22 Feb 2020 21:58:04 +0530</pubDate>
+        <link>https://myblog.github.io/jekyll/update/2020/02/22/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://myblog.github.io/jekyll/update/2020/02/22/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Softwarecarpentry Git Continued</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Conflicts     :-What do I do when my changes conflict with someone else’s?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Open Science :-How can version control help me make my work more open?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Licensing 	  :- What licensing information should I include with my work?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Citation 	  :-How can I make my work easier to cite?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hosting 	  :-Where should I host my version control repositories?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Supplemental :- Using Git from RStudio ?How can I use Git with RStudio?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Thu, 20 Feb 2020 00:00:00 +0530</pubDate>
+        <link>https://myblog.github.io/2020/02/20/softwarecarpentry-git-continued.html</link>
+        <guid isPermaLink="true">https://myblog.github.io/2020/02/20/softwarecarpentry-git-continued.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Softwarecarpentry Git</title>
+        <description>&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Automated Version Control :-What is version control and why should I use it?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Setting Up Git 	      :-How do I get set up to use Git?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Creating a Repository     :- Where does Git store information?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tracking Changes 	      :-How do I record changes in Git?
+  How do I check the status of my version controlrepository?
+  How do I record notes about what changes I made and why?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Exploring History         :-How can I identify old versions of files?How do I review my changes? How can I recover old versions of files?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ignoring Things 	      :-How can I tell Git to ignore files I don’t want to track?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Remotes in GitHub 	      :-How do I share my changes with others on the web?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Collaborating 	      :-How can I use version control to collaborate with other people?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Wed, 19 Feb 2020 00:00:00 +0530</pubDate>
+        <link>https://myblog.github.io/2020/02/19/softwarecarpentry-git.html</link>
+        <guid isPermaLink="true">https://myblog.github.io/2020/02/19/softwarecarpentry-git.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Shell Scripting</title>
+        <description>&lt;p&gt;What is shell?&lt;/p&gt;
+
+&lt;p&gt;A shell in a Linux operating system takes input from you in the form of commands, processes it, and then gives an output. It is the interface through which a user works on the programs, commands, and scripts. A shell is accessed by a terminal which runs it.&lt;/p&gt;
+
+&lt;p&gt;What is shell scripting?&lt;/p&gt;
+
+&lt;p&gt;Shell scripting is writing a series of command for the shell to execute. It can combine lengthy and repetitive sequences of commands into a single and simple script, which can be stored and executed anytime. This reduces the effort required by the end user.&lt;/p&gt;
+
+&lt;p&gt;Creating a Shell Script&lt;/p&gt;
+
+&lt;p&gt;1.Create a file using a vi editor(or any other editor).  Name  script file with extension .sh
+2.Start the script with #! /bin/sh
+3.Write some code.
+4.Save the script file as filename.sh
+5.For executing the script type bash filename.sh&lt;/p&gt;
+
+&lt;p&gt;Hisory command&lt;/p&gt;
+
+&lt;p&gt;history command is used to view the previously executed command. 
+command syntax=$ history&lt;/p&gt;
+
+&lt;p&gt;To show the limited number of commands that executed previously as follows: 
+$ history 5&lt;/p&gt;
+
+&lt;p&gt;Head command&lt;/p&gt;
+
+&lt;p&gt;The head command, as the name implies, print the top N number of data of the given input. By default, it prints the first 10 lines
+$ head state.txt&lt;/p&gt;
+
+&lt;p&gt;-n num: Prints the first ‘num’ lines instead of first 10 lines.
+ $ head -n 5 state.txt&lt;/p&gt;
+
+&lt;p&gt;Tail command&lt;/p&gt;
+
+&lt;p&gt;The tail command, as the name implies, print the last N number of data of the given input. By default it prints the last 10 lines 
+$ tail state.txt&lt;/p&gt;
+
+&lt;p&gt;-n num: Prints the last ‘num’ lines instead of last 10 lines. 
+$ tail -n 3 state.txt&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 18 Feb 2020 00:00:00 +0530</pubDate>
+        <link>https://myblog.github.io/2020/02/18/shell-scripting.html</link>
+        <guid isPermaLink="true">https://myblog.github.io/2020/02/18/shell-scripting.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Using Attendance Plugin</title>
+        <description>&lt;p&gt;Adding an Attendance Activity instance&lt;/p&gt;
+
+&lt;p&gt;After the attendance module has been properly installed, the teacher must add Attendance as an activity to each course they wish to keep attendance for. This is done by first ensuring that you are in the edit mode and then selecting “Add an activity or resource” in a Moodle section box.&lt;/p&gt;
+
+&lt;p&gt;Adding an Attendance block to a course page&lt;/p&gt;
+
+&lt;p&gt;.Turn editing on.
+.Find the block entitled “Add a block.”
+.In the drop-down menu in this block, select Attendance to add the Attendance block.
+.As always, move the block to fit your viewing preference.&lt;/p&gt;
+
+&lt;p&gt;Setting Attendance categories and grading options&lt;/p&gt;
+
+&lt;p&gt;Now it is time to set your attendance options. Select your attendance activity and you will see a bar of options, the last of which is “Settings.” Select “Settings” and you are presented with acronyms, attendance status descriptions, and grade (points) to assign. By default, the status descriptions are “Present”, “Absent”, “Late”, and “Excused”.&lt;/p&gt;
+
+&lt;p&gt;You may prefer to change the descriptions (for example, by changing “Late” to “Tardy”), change the way points are counted, or add new status descriptions. To do the latter, fill in the fifth line and click the Add button. Important: when you hit the Add button, any changes made to existing options that were made after the last time the Update button was used will be lost. Likewise, when you hit the Update button, any changes made to the Add after the last time the Add button was hit will be lost.&lt;/p&gt;
+
+&lt;p&gt;Finally, when you are done changing items on this page, be sure to click the Update button to register the changes.&lt;/p&gt;
+
+&lt;p&gt;Adding sessions&lt;/p&gt;
+
+&lt;p&gt;Next, it is time to add sessions. To add class sections, click the Add tab (second from left) at the top of the Attendance page. Alternatively, you can click the Add button from the Attendance block (if you’ve installed it) to directly navigate to the page for adding sessions. If you chose “No groups”, or have not defined groups, then the Session type will be forced to “Common.” If you have defined groups and have chosen to use them in your course’s Attendance activity, then you will have the option to create sessions for a group or all students.&lt;/p&gt;
+
+&lt;p&gt;Taking attendance&lt;/p&gt;
+
+&lt;p&gt;When taking attendance, the column headings for attendance status are links. If you click one of these column headings, all students will have their status changed to the status you selected. Thus, if everyone is present, you can merely click the P column header to change everyone’s status to “Present”. If only one person is absent, you could first click P to set everyone’s status to “Present”, and then set the absent student’s status to “Absent”.&lt;/p&gt;
+
+&lt;p&gt;Reports&lt;/p&gt;
+
+&lt;p&gt;.Select the Attendance activity of the course and session you’re interested in.
+.Click on the Export tab near the top.
+.Change the export settings if you wish.
+.From the Format pull-down menu, select the file format you’d like to export the attendance  report in.
+.Click on the OK button.
+.Your browser will now probably ask you to either display or save the file.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Feb 2020 00:00:00 +0530</pubDate>
+        <link>https://myblog.github.io/2020/02/17/Using-attendance-plugin.html</link>
+        <guid isPermaLink="true">https://myblog.github.io/2020/02/17/Using-attendance-plugin.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Install Attendance Plugin</title>
+        <description>
+&lt;p&gt;Installing via uploaded ZIP file&lt;/p&gt;
+
+&lt;p&gt;1.Go to the Moodle plugins directory, select your current Moodle version, then choose a plugin with a Download button and download the ZIP file.&lt;/p&gt;
+
+&lt;p&gt;2.Login to your Moodle site as an admin and go to Administration &amp;gt; Site administration &amp;gt; Plugins &amp;gt; Install plugins.&lt;/p&gt;
+
+&lt;p&gt;3.Upload the ZIP file. You should only be prompted to add extra details (in the Show more section) if your plugin is not automatically detected.&lt;/p&gt;
+
+&lt;p&gt;4.If your target directory is not writeable, you will see a warning message.Check the plugin validation report&lt;/p&gt;
+</description>
+        <pubDate>Sat, 15 Feb 2020 00:00:00 +0530</pubDate>
+        <link>https://myblog.github.io/2020/02/15/install-attendance-plugin.html</link>
+        <guid isPermaLink="true">https://myblog.github.io/2020/02/15/install-attendance-plugin.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Introduction To Moodle And Installation Of Moodle</title>
+        <description>&lt;p&gt;INTRODUCTION TO MOODLE&lt;/p&gt;
+
+&lt;p&gt;Moodle is an acronym for “Modular Object-Oriented Dynamic Learning Environment.” It is a free and open-source learning management system (LMS) written in PHP and distributed under the GNU General Public License.Developed on pedagogical principles,Moodle is used for blended learning, distance education, flipped classroom and other e-learning projects in schools, universities, workplaces and other sectors.&lt;/p&gt;
+
+&lt;p&gt;INSTALLATION OF MOODLE&lt;/p&gt;
+
+&lt;p&gt;Step 1: Install Ubuntu
+sudo apt-get install vim&lt;/p&gt;
+
+&lt;p&gt;Step 2: Install Apache/MySQL/PHP
+sudo apt install apache2 mysql-client mysql-server php libapache2-mod-php&lt;/p&gt;
+
+&lt;p&gt;Step 3: Install Additional Software
+sudo apt install graphviz aspell ghostscript clamav php7.2-pspell php7.2-curl php7.2-gd php7.2-intl php7.2-mysql php7.2-xml php7.2-xmlrpc php7.2-ldap php7.2-zip php7.2-soap php7.2-mbstring&lt;/p&gt;
+
+&lt;p&gt;sudo service apache2 restart&lt;/p&gt;
+
+&lt;p&gt;sudo apt install git&lt;/p&gt;
+
+&lt;p&gt;Step 4: Download Moodle
+cd /opt
+sudo git clone git://git.moodle.org/moodle.git
+cd moodle
+sudo git branch -a
+sudo git branch –track MOODLE_38_STABLE origin/MOODLE_38_STABLE
+sudo git checkout MOODLE_38_STABLE&lt;/p&gt;
+
+&lt;p&gt;Step 5: Copy local repository to /var/www/html/ 
+sudo cp -R /opt/moodle /var/www/html/
+sudo mkdir /var/moodledata
+sudo chown -R www-data /var/moodledata
+sudo chmod -R 777 /var/moodledata
+sudo chmod -R 0755 /var/www/html/moodle&lt;/p&gt;
+
+&lt;p&gt;Step 6: Setup MySQL Server
+sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf
+sudo service mysql restart
+sudo mysql -u root -p&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 14 Feb 2020 00:00:00 +0530</pubDate>
+        <link>https://myblog.github.io/2020/02/14/introduction-to-moodle-and-installation-of-moodle.html</link>
+        <guid isPermaLink="true">https://myblog.github.io/2020/02/14/introduction-to-moodle-and-installation-of-moodle.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
