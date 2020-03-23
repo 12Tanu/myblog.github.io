@@ -1,8 +1,10 @@
 NTRODUCTION TO MOODLE
+14 Feb,2020
 
 Moodle is an acronym for "Modular Object-Oriented Dynamic Learning Environment." It is a free and open-source learning management system (LMS) written in PHP and distributed under the GNU General Public License.Developed on pedagogical principles,Moodle is used for blended learning, distance education, flipped classroom and other e-learning projects in schools, universities, workplaces and other sectors.
 
 INSTALLATION OF MOODLE
+14 Feb,2020
 
 Step 1: Install Ubuntu sudo apt-get install vim
 
@@ -19,3 +21,4 @@ Step 4: Download Moodle cd /opt sudo git clone git://git.moodle.org/moodle.git c
 Step 5: Copy local repository to /var/www/html/ sudo cp -R /opt/moodle /var/www/html/ sudo mkdir /var/moodledata sudo chown -R www-data /var/moodledata sudo chmod -R 777 /var/moodledata sudo chmod -R 0755 /var/www/html/moodle
 
 Step 6: Setup MySQL Server sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf sudo service mysql restart sudo mysql -u root -p
+
