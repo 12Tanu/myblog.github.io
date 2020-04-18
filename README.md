@@ -1,9 +1,9 @@
-INTRODUCTION TO MOODLE
+#INTRODUCTION TO MOODLE
 14 Feb,2020
 
 Moodle is an acronym for "Modular Object-Oriented Dynamic Learning Environment." It is a free and open-source learning management system (LMS) written in PHP and distributed under the GNU General Public License.Developed on pedagogical principles,Moodle is used for blended learning, distance education, flipped classroom and other e-learning projects in schools, universities, workplaces and other sectors.
 
-INSTALLATION OF MOODLE
+#INSTALLATION OF MOODLE
 14 Feb,2020
 
 Step 1: Install Ubuntu sudo apt-get install vim
